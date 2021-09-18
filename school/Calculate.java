@@ -8,7 +8,7 @@ public class Calculate {
         // Set Value 
         studentA.setHadir(17);
         studentA.setNilaiHarian(80);
-        studentA.setUTS(120);
+        studentA.setUTS(100);
         studentA.setUAS(67);
 
         studentB.setHadir(16);
